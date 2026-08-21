@@ -1,0 +1,7 @@
+{
+  "name": "Reto SILEO",
+  "description": "Tienes 45 segundos para poner a prueba tu atención, velocidad de procesamiento y agilidad mental. ¿Aceptas el reto?",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

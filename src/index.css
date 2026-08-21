@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --sileo-deep-blue: #0B1F3A;
+    --sileo-bright-blue: #0066FF;
+    --sileo-purple: #6C2BD9;
+    --sileo-pink: #E83E8C;
+    --sileo-lime: #B7D600;
+    --sileo-black: #000000;
+    --sileo-white: #FFFFFF;
+  }
+}
+
+/* Custom Palette Utility Classes */
+.bg-sileo-deep {
+  background-color: #0B1F3A;
+}
+
+.bg-sileo-bright {
+  background-color: #0066FF;
+}
+
+.bg-sileo-purple {
+  background-color: #6C2BD9;
+}
+
+.bg-sileo-pink {
+  background-color: #E83E8C;
+}
+
+.bg-sileo-lime {
+  background-color: #B7D600;
+}
+
+.text-sileo-deep {
+  color: #0B1F3A;
+}
+
+.text-sileo-bright {
+  color: #0066FF;
+}
+
+.text-sileo-purple {
+  color: #6C2BD9;
+}
+
+.text-sileo-pink {
+  color: #E83E8C;
+}
+
+.text-sileo-lime {
+  color: #B7D600;
+}
+
+.border-sileo-deep {
+  border-color: #0B1F3A;
+}
+
+.border-sileo-bright {
+  border-color: #0066FF;
+}
+
+.border-sileo-purple {
+  border-color: #6C2BD9;
+}
+
+.border-sileo-pink {
+  border-color: #E83E8C;
+}
+
+.border-sileo-lime {
+  border-color: #B7D600;
+}
