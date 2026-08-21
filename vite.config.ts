@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: "/reto-sileo/,"
+    base: '/reto-sileo/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
